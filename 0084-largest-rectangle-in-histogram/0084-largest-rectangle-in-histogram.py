@@ -1,5 +1,5 @@
 class Solution:
-    def largestRectangleArea(self, heights: List[int]) -> int:
+    def largestRectangleArea(heights):
         stack = [] # (index,height)
         maxArea =0
 
