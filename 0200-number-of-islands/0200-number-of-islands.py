@@ -22,39 +22,41 @@ class UnionFind:
             else:
                 self.root[rootY] = rootX
                 self.rank[rootX] += 1
+                
             self.count -= 1
             
     def getCount(self):
         return self.count
-
+        
+        
 class Solution:
-    def numIslands(self, grid: List[List[str]]) -> int:
-        if not grid or not grid[0]:
-            return 0
+    
+    def numIslands(self,grid):
+        
         rows = len(grid)
         cols = len(grid[0])
-        num_node = rows * cols
-        uf = UnionFind(num_node)
+        num_nodes = rows * cols
+        uf = UnionFind(num_nodes)
         
         water_count = 0
         
         direction = [[0,1],[1,0]]
         
+        
         for r in range(rows):
             for c in range(cols):
                 index = r * cols + c
+                
                 
                 if grid[r][c]=='0':
                     water_count += 1
                     continue
                     
                 for dr, dc in direction:
-                    nr, nc = r + dr, c + dc
+                    nr,nc = r+dr , c+dc
                     
-                    
-                    if 0 <= nr < rows and 0 <= nc < cols and grid[nr][nc]=='1':
-                        nindex = nr * cols + nc
+                    if 0 <= nr < rows  and 0 <= nc < cols and grid[nr][nc]=='1':
+                        nindex = nr * cols + nc 
                         uf.union(index,nindex)
-                        
+                    
         return uf.getCount() - water_count
-        
