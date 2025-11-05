@@ -1,33 +1,3 @@
-class UnionFind:
-    
-    def __init__(self,size):
-        self.root = [i for i in range(size)]
-        self.rank = [1] * size
-        self.count = size
-        
-    def find(self,x):
-        if x == self.root[x]:
-            return x
-        self.root[x] = self.find(self.root[x])
-        return self.root[x]
-        
-    def union(self,x,y):
-        rootX = self.find(x)
-        rootY = self.find(y)
-        if rootX != rootY:
-            if self.rank[rootX] > self.rank[rootY]:
-                self.root[rootY] = rootX
-            elif self.rank[rootX] < self.rank[rootY]:
-                self.root[rootX] = rootY
-            else:
-                self.root[rootY] = rootX
-                self.rank[rootX] += 1
-                
-            self.count -= 1
-            
-    def getCount(self):
-        return self.count
-        
         
 class Solution:
     
@@ -35,28 +5,24 @@ class Solution:
         
         rows = len(grid)
         cols = len(grid[0])
-        num_nodes = rows * cols
-        uf = UnionFind(num_nodes)
+        island_count = 0
         
-        water_count = 0
+        directions = [(0,1),(0,-1),(1,0),(-1,0)]
         
-        direction = [[0,1],[1,0]]
-        
-        
+        def dfs_sink(r,c):
+            if r < 0 or r >= rows or c < 0 or c >= cols:
+                return
+            if grid[r][c] == '0':
+                return
+            
+            grid[r][c]='0'
+            
+            for dr,dc in directions:
+                dfs_sink(r+dr,c+dc)
+                
         for r in range(rows):
             for c in range(cols):
-                index = r * cols + c
-                
-                
-                if grid[r][c]=='0':
-                    water_count += 1
-                    continue
-                    
-                for dr, dc in direction:
-                    nr,nc = r+dr , c+dc
-                    
-                    if 0 <= nr < rows  and 0 <= nc < cols and grid[nr][nc]=='1':
-                        nindex = nr * cols + nc 
-                        uf.union(index,nindex)
-                    
-        return uf.getCount() - water_count
+                if grid[r][c]=='1':
+                    island_count +=1                
+                    dfs_sink(r,c)
+        return island_count
