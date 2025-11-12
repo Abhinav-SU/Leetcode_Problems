@@ -1,46 +1,39 @@
+
 class Solution:
-    def openLock(self,deadends,target):
+    def openLock(self, deadends: List[str], target: str) -> int:
         
-        start ='0000'
-        deadendSet = set(deadends)
-        if start == target:
-            return 0
-        if start in deadendSet:
+        deadend_set = set(deadends)
+        if '0000' in deadend_set: 
             return -1
+        if '0000' == target:
+            return 0
             
-        visited = deadendSet.copy()
-        visited.add(start)
         q = deque()
-        q.append((start,0))
-        
-        def get_neighbour(comboStr):
-            neighbours =[]
-            
+        q.append(['0000',0])
+        visited = deadend_set.copy()
+        visited.add('0000')
+  
+        def get_directions(comboStr):
+            combo =[]
             for i in range(4):
+                digitFWD = (int(comboStr[i]) +1)% 10
+                numFwd = comboStr[:i] + str(digitFWD) + comboStr[i+1:]
+                combo.append(numFwd)
+                digitBWD = (int(comboStr[i]) +10 -1)%10 
+                numBWD = comboStr[:i] + str(digitBWD) + comboStr[i+1:]
+                combo.append(numBWD)
                 
-                digit = int(comboStr[i])
+            return combo
                 
-                digitFwd = str((digit+1) %10)
-                neighFwd = comboStr[:i] + digitFwd + comboStr[i+1:]
-                neighbours.append(neighFwd)
-                
-                digitBwd = str((digit -1 +10)%10)
-                neighBwd = comboStr[:i] + digitBwd + comboStr[i+1:]
-                neighbours.append(neighBwd)
-                
-            return neighbours
-            
         while q:
+            node,steps = q.popleft()
             
-            combo, turns = q.popleft()
-            
-            for neighbour in get_neighbour(combo):
-                if neighbour not in visited:
-                    if neighbour == target:
-                        return turns+1
-                    
-        
-                    visited.add(neighbour)
-                    q.append((neighbour,turns+1))
+            if node == target:
+                return steps
+                
+            for neigh in get_directions(node):
+                if neigh not in visited:
+                    visited.add(neigh)
+                    q.append([neigh,steps+1])
                     
         return -1
