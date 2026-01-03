@@ -1,23 +1,16 @@
-    
+#tok K frequent elem
+from collections import Counter
+import heapq
 class Solution:
-    def topKFrequent(self,nums,k):
-        
-        numsDict ={}
-        
-        for num in nums:
-            if num not in numsDict:
-                numsDict[num] = 1
-            else:
-                numsDict[num] += 1
-                
-        topK = []
-        for ke,v in numsDict.items():
-            heapq.heappush(topK,(v,ke))
-            if len(topK) > k:
-                heapq.heappop(topK)
-                
-        result = []
-        for v,ke in topK:
-            result.append(ke)
-            
-        return result
+	def topKFrequent(self,nums,k):
+		count = Counter(nums)
+		
+		minHeap = []
+		
+		for key,freq in count.items():
+			heapq.heappush(minHeap,(freq,key))
+			
+			if len(minHeap) > k:
+				heapq.heappop(minHeap)
+				
+		return [val for freq,val in minHeap]
