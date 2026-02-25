@@ -1,21 +1,12 @@
 class Solution:
-	def minCostClimbingStairs(self,cost):
-		memo = {}
-		n = len(cost)
-
-
-		def f(i,cost):
-			
-			
-			if i<2:
-				return 0
-			
-			if i in memo:
-				return memo[i]
-			res = min(f(i-2,cost)+cost[i-2],f(i-1,cost)+cost[i-1])
-
-			memo[i] = res
-
-			return res
-			
-		return f(n,cost)
+    def minCostClimbingStairs(self, cost: list[int]) -> int:
+        # prev2 is cost to reach 2 steps back, prev1 is 1 step back
+        prev2, prev1 = 0, 0
+        
+        # We want to reach the index 'len(cost)', which is the floor beyond the last step
+        for i in range(2, len(cost) + 1):
+            # Cost to reach current step 'i'
+            current = min(prev1 + cost[i-1], prev2 + cost[i-2])
+            prev2, prev1 = prev1, current
+            
+        return prev1
