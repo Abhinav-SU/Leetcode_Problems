@@ -27,17 +27,25 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0733-flood-fill/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0733-flood-fill/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0733-flood-fill/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
