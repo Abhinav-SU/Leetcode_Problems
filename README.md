@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0733-flood-fill/) | Easy |
