@@ -1,27 +1,28 @@
 class Solution:
-    def numIslands(self, grid: List[List[str]]) -> int:
-        if not grid:
-            return 0
+	def numIslands(self,grid: List[List[int]]) -> int:
+		if not grid:
+			return 0
+		m,n =len(grid),len(grid[0])
+		if m==0 and n==0:
+			return 0
+		count =0 
+		directions = [(0,1),(0,-1),(1,0),(-1,0)]
+		
+		def dfs(start_r,start_c):
+			stack =[(start_r,start_c)]
+			grid[start_r][start_c]='0'
+			
 
-        num_islands = 0
-
-
-        def dfs(r,c):
-            # Check boundary
-            if r < 0 or r >= len(grid) or c < 0 or c >= len(grid[0]) or grid[r][c] =='0':
-                return
-            # mark the current cell to be visited
-            grid[r][c] = '0' 
-            #process and traverse
-            for dr,dc in [(0,1),(1,0),(0,-1),(-1,0)]:
-                dfs(r+dr , c+dc)
- 
-
-            
-        for i in range(len(grid)):
-            for j in range(len(grid[0])):
-                if grid[i][j] == "1":
-                    dfs(i,j)
-                    num_islands += 1
-
-        return num_islands
+			while stack:
+				r,c = stack.pop()
+				for dr,dc in directions:
+					nr,nc = r+dr,c+dc
+					if 0 <= nr < m and 0 <= nc < n and grid[nr][nc]=='1':
+						stack.append((nr,nc))
+						grid[nr][nc]='0'
+		for i in range(m):
+			for j in range(n):
+				if grid[i][j]=='1':
+					dfs(i,j)
+					count+=1
+		return count 
