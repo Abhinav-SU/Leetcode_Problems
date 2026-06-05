@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0337-house-robber-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0337-house-robber-iii/) | Medium |
@@ -68,11 +69,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0337-house-robber-iii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0337-house-robber-iii/) | Medium |
 ## Two Pointers
@@ -89,4 +92,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0015-3sum/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
