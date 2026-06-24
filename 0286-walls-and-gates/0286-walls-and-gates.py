@@ -3,25 +3,23 @@ class Solution:
         """
         Do not return anything, modify rooms in-place instead.
         """
-        m,n = len(rooms),len(rooms[0])
-        q = deque()
-        for i in range(m):
-            for j in range(n):
-                if rooms[i][j]==0:
+        if not rooms:
+            return 
+        q =deque()
+        for i in range(len(rooms)):
+            for j in range(len(rooms[0])):
+                if rooms[i][j] ==0:
                     q.append((i,j))
-                    
-        directions = [(0,1),(0,-1),(1,0),(-1,0)]
+        dire = [(0,1),(0,-1),(1,0),(-1,0)]
+        dist =0
         INF = 2147483647
-        
         while q:
-            
-            r,c = q.popleft()
-            currentDistance = rooms[r][c]
-            
-            
-            for dr,dc in directions:
-                nr,nc = r+dr, c+dc
-                if 0 <= nr < m and 0 <= nc < n:
-                    if rooms[nr][nc]==INF:
-                        rooms[nr][nc]= currentDistance+1
+            dist +=1
+            for _ in range(len(q)):
+                r,c = q.popleft()
+                for dr,dc in dire:
+                    nr,nc = r+dr,c+dc
+                    if 0 <= nr <len(rooms) and 0 <= nc < len(rooms[0]) and rooms[nr][nc] ==INF:
+                        rooms[nr][nc] =dist
                         q.append((nr,nc))
+                
