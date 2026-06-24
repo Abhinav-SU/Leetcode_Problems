@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0337-house-robber-iii/) | Medium |
+| [0542-01-matrix](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0542-01-matrix/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0286-walls-and-gates](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0286-walls-and-gates/) | Medium |
 | [0463-island-perimeter](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0463-island-perimeter/) | Easy |
+| [0542-01-matrix](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0994-rotting-oranges/) | Medium |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0286-walls-and-gates](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0286-walls-and-gates/) | Medium |
 | [0463-island-perimeter](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0463-island-perimeter/) | Easy |
+| [0542-01-matrix](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0733-flood-fill/) | Easy |
@@ -79,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0286-walls-and-gates](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0286-walls-and-gates/) | Medium |
 | [0463-island-perimeter](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0463-island-perimeter/) | Easy |
+| [0542-01-matrix](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0994-rotting-oranges/) | Medium |
