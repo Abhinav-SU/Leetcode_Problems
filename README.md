@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
+| [0463-island-perimeter](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0733-flood-fill/) | Easy |
 ## Depth-First Search
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0337-house-robber-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0337-house-robber-iii/) | Medium |
+| [0463-island-perimeter](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
@@ -56,12 +58,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
+| [0463-island-perimeter](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0733-flood-fill/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
+| [0463-island-perimeter](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0733-flood-fill/) | Easy |
 ## Union-Find
