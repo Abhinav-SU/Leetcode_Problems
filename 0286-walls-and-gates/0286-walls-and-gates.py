@@ -4,22 +4,24 @@ class Solution:
         Do not return anything, modify rooms in-place instead.
         """
         if not rooms:
-            return 
-        q =deque()
-        for i in range(len(rooms)):
-            for j in range(len(rooms[0])):
-                if rooms[i][j] ==0:
-                    q.append((i,j))
-        dire = [(0,1),(0,-1),(1,0),(-1,0)]
-        dist =0
+            return
         INF = 2147483647
+        m,n = len(rooms),len(rooms[0])
+        dire = [(0,1),(1,0),(0,-1),(-1,0)]
+        q = deque()
+        for i in range(m):
+            for j in range(n):
+                if rooms[i][j]==0:
+                    q.append((i,j))
+        dist = 1
         while q:
-            dist +=1
             for _ in range(len(q)):
                 r,c = q.popleft()
                 for dr,dc in dire:
                     nr,nc = r+dr,c+dc
-                    if 0 <= nr <len(rooms) and 0 <= nc < len(rooms[0]) and rooms[nr][nc] ==INF:
-                        rooms[nr][nc] =dist
+                    if 0 <= nr < m and 0 <= nc < n and rooms[nr][nc]==INF:
+                        
+                        rooms[nr][nc]= dist
                         q.append((nr,nc))
-                
+            dist += 1
+            
