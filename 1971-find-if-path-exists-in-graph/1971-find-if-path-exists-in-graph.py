@@ -1,27 +1,26 @@
 class Solution:
     def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool:
+        
         graph = defaultdict(list)
-        visit = [False] * n
 
         for u,v in edges:
             graph[u].append(v)
             graph[v].append(u)
-        
-        visit[source]= True
+
+        visited = set()
+        visited.add(source)
         stack = [(source)]
 
         while stack:
-            curr_node = stack.pop()
-            for nxt in graph[curr_node]:
+            node = stack.pop()
+            if node == destination:
+                return True
+            for nxt in graph[node]:
                 if nxt == destination:
                     return True
-                if not visit[nxt]:
-                    visit[nxt]=True
-                    stack.append(nxt)
-            
+                if nxt not in visited:
+                    visited.add(nxt)
+                    stack.append((nxt))
+        return False
 
 
-        return visit[destination]
-
-
-        
