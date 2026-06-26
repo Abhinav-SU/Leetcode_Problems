@@ -1,34 +1,37 @@
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
         wordSet = set(wordList)
-        if endWord not in wordSet:
-            return 0
-
         beginSet = {beginWord}
         endSet = {endWord}
+
+        if endWord not in wordSet:
+            return 0
         count = 1
-
         while beginSet and endSet:
-            if len(endSet) > len(beginSet):
-                beginSet, endSet = endSet, beginSet
-            newSet = set()
-            for curr_word in beginSet:
-                wordChar = list(curr_word)
-                for i in range(len(wordChar)):
-                    orgChar = wordChar[i]
-                    for c in "abcdefghijklmnopqrstuvwxyz":
-                        wordChar[i] = c
-                        new_word = "".join(wordChar)
 
-                        if new_word in endSet:
+            if len(beginSet) > len(endSet):
+                beginSet,endSet = endSet,beginSet
+            newSet = set()
+            for word in beginSet:
+                wordArr = list(word)
+                for i in range(len(wordArr)):
+                    orgChar = wordArr[i]
+                    for c in "abcdefghijklmnopqrstuvwxyz":
+                        wordArr[i] = c
+                        newWord = "".join(wordArr)
+
+                        if newWord == word:
+                            continue
+                            
+                        if newWord in endSet:
                             return count + 1
 
-                        if new_word in wordSet:
-                            newSet.add(new_word)
-                            wordSet.remove(new_word)
-
-                    wordChar[i] = orgChar
-
+                        if newWord in wordSet:
+                            newSet.add(newWord)
+                            wordSet.remove(newWord)
+                    wordArr[i] = orgChar
             beginSet = newSet
-            count += 1
+            count +=1
+
         return 0
+                    
