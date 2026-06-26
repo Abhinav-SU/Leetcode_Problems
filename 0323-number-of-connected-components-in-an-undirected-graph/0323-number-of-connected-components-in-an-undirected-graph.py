@@ -9,22 +9,25 @@ class DSU:
             return self.root[x]
         self.root[x] = self.root[self.find(self.root[x])]
         return self.root[x]
-    
     def union(self,x,y):
-        rootX , rootY = self.find(x),self.find(y)
+        rootX, rootY = self.find(x),self.find(y)
+
         if rootX != rootY:
             if self.rank[rootX] > self.rank[rootY]:
-                self.root[rootY] = self.root[rootX]
+                self.root[rootY] = rootX
             elif self.rank[rootX] < self.rank[rootY]:
-                self.root[rootX] = self.root[rootY]
+                self.root[rootX] = rootY
             else:
-                self.root[rootY] = self.root[rootX]
+                self.root[rootY] = rootX
                 self.rank[rootX] +=1
             self.count -= 1
- 
+
 class Solution:
     def countComponents(self, n: int, edges: List[List[int]]) -> int:
+        
         dsu = DSU(n)
+
         for u,v in edges:
             dsu.union(u,v)
+        
         return dsu.count
