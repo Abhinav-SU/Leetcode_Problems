@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0886-possible-bipartition/) | Medium |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0886-possible-bipartition/) | Medium |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0684-redundant-connection/) | Medium |
+| [0743-network-delay-time](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0886-possible-bipartition/) | Medium |
@@ -161,4 +164,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0210-course-schedule-ii/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0743-network-delay-time/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
