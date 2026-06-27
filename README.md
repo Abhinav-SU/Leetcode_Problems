@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0127-word-ladder](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0127-word-ladder/) | Hard |
+| [0472-concatenated-words](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0472-concatenated-words/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0337-house-robber-iii/) | Medium |
+| [0472-concatenated-words](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0472-concatenated-words/) | Hard |
 | [0542-01-matrix](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Stack
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0286-walls-and-gates](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0286-walls-and-gates/) | Medium |
 | [0463-island-perimeter](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0463-island-perimeter/) | Easy |
+| [0472-concatenated-words](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0472-concatenated-words/) | Hard |
 | [0542-01-matrix](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0733-flood-fill/) | Easy |
@@ -63,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0337-house-robber-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0337-house-robber-iii/) | Medium |
 | [0463-island-perimeter](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0463-island-perimeter/) | Easy |
+| [0472-concatenated-words](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0472-concatenated-words/) | Hard |
 | [0547-number-of-provinces](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0695-max-area-of-island/) | Medium |
@@ -153,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0015-3sum/) | Medium |
+| [0472-concatenated-words](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0472-concatenated-words/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,4 +197,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0472-concatenated-words](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0472-concatenated-words/) | Hard |
 <!---LeetCode Topics End-->
