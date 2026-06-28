@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0133-clone-graph](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0127-word-ladder](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
@@ -135,12 +137,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0337-house-robber-iii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0337-house-robber-iii/) | Medium |
 ## Two Pointers
