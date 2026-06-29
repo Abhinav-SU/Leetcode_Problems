@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0337-house-robber-iii/) | Medium |
 | [0463-island-perimeter](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0472-concatenated-words](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0472-concatenated-words/) | Hard |
+| [0543-diameter-of-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0695-max-area-of-island/) | Medium |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0337-house-robber-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0337-house-robber-iii/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0337-house-robber-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0337-house-robber-iii/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
