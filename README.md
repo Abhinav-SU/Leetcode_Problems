@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0127-word-ladder](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0127-word-ladder/) | Hard |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0472-concatenated-words](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0472-concatenated-words/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0337-house-robber-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0337-house-robber-iii/) | Medium |
 | [0463-island-perimeter](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0463-island-perimeter/) | Easy |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0286-walls-and-gates](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0286-walls-and-gates/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0463-island-perimeter](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0542-01-matrix/) | Medium |
@@ -178,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0337-house-robber-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -200,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0337-house-robber-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -268,4 +273,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
