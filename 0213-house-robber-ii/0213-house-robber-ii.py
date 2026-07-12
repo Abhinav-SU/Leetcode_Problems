@@ -1,21 +1,24 @@
 class Solution:
-    def rob(self, nums):
-
-        n = len(nums)
-        if n < 0:
+    def rob(self, nums: List[int]) -> int:
+        ln = len(nums)
+        if ln == 0:
             return 0
-        if n == 1:
+        if ln == 1:
             return nums[0]
 
-        def rob_linear(nums):
-            prev1 = 0
-            prev2 = 0
+        def robCircle(arr: List[int]) -> int:
 
-            for x in nums:
-                res = max(x + prev2, prev1)
-                prev2 = prev1
-                prev1 = res
+            if len(arr) == 1:
+                return arr[0]
+            prev2 = arr[0]
+            prev = max(arr[0], arr[1])
 
-            return prev1
+            for i in range(2, len(arr)):
+                take = arr[i] + prev2
+                not_take = 0 + prev
+                curi = max(take, not_take)
+                prev2 = prev
+                prev = curi
+            return prev
 
-        return max(rob_linear(nums[:-1]), rob_linear(nums[1:]))
+        return max(robCircle(nums[1:]), robCircle(nums[:-1]))
