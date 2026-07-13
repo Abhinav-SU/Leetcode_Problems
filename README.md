@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0472-concatenated-words](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0472-concatenated-words/) | Hard |
 | [0542-01-matrix](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0931-minimum-falling-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Depth-First Search
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0931-minimum-falling-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Union-Find
