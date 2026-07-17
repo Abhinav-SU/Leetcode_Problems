@@ -4,13 +4,17 @@ class Solution:
         m = len(t)
         if n!=m:
             return False
-        s = sorted(s)
-        t = sorted(t)
 
+        count = [0] * 26
+        for char in s:
+            count[ord(char)-ord('a')] +=1
 
-        for i in range(m):
-            if s[i] != t[i]:
+        for char in t:
+            if count[ord(char)-ord('a')] == 0:
                 return False
+            count[ord(char)-ord('a')] -=1
+
+
         return True
 
         
