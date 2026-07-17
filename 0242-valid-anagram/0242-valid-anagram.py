@@ -1,14 +1,16 @@
 class Solution:
-	def isAnagram(self,s,t):
+    def isAnagram(self, s: str, t: str) -> bool:
+        n = len(s)
+        m = len(t)
+        if n!=m:
+            return False
+        s = sorted(s)
+        t = sorted(t)
 
-		freq_s = {}
-		freq_t = {}
-		
-		for i in range(len(s)):
-			freq_s[s[i]] = freq_s.get(s[i],0)+1
-			
-		for i in range(len(t)):
-			freq_t[t[i]] = freq_t.get(t[i],0)+1
-			
-			
-		return freq_s == freq_t
+
+        for i in range(m):
+            if s[i] != t[i]:
+                return False
+        return True
+
+        
