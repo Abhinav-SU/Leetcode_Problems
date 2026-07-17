@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0133-clone-graph/) | Medium |
 | [0217-contains-duplicate](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0286-walls-and-gates](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0286-walls-and-gates/) | Medium |
 | [0322-coin-change](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0322-coin-change/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0463-island-perimeter](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0472-concatenated-words](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0472-concatenated-words/) | Hard |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0472-concatenated-words](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0472-concatenated-words/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -287,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -305,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,4 +327,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0062-unique-paths/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
