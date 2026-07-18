@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/3180-maximum-total-reward-using-operations-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/3180-maximum-total-reward-using-operations-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0472-concatenated-words](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0472-concatenated-words/) | Hard |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/3180-maximum-total-reward-using-operations-i/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,4 +345,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/3180-maximum-total-reward-using-operations-i/) | Medium |
 <!---LeetCode Topics End-->
