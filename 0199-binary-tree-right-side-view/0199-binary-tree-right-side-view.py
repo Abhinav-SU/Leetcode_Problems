@@ -12,14 +12,14 @@ class Solution:
         queue = deque([root])
 
         while queue:
-            curr = []
+            
             sz = len(queue)
-            for _ in range(sz):
+            for i in range(sz):
                 node = queue.popleft()
                 if node.left:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
-                curr.append(node.val)
-            res.append(curr[-1])
+                if i == sz - 1:
+                    res.append(node.val)
         return res
