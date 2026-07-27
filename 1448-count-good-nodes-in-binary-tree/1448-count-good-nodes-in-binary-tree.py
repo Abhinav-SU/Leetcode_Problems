@@ -4,22 +4,25 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution:
-	def goodNodes(self,root):
-		
-		stack =[(root,float('-inf'))]
-		num_good_nodes = 0
-		
-		while stack:
-			node,max_so_far = stack.pop()
-			if node.val >= max_so_far:
-				num_good_nodes+=1
-				
-			if node.left:
-				stack.append((node.left,max(node.val,max_so_far)))
-			
-			if node.right:
-				stack.append((node.right,max(node.val,max_so_far)))
-		return num_good_nodes
-        
+    def goodNodes(self, root: TreeNode) -> int:
+        if not root:
+            return 0
+        count = 0
+        maxSoFar = root.val
+
+        def dfs(root, maxSoFar):
+            nonlocal count
+            if not root:
+                return
+            if root.val >= maxSoFar:
+                count += 1
+
+            maxSoFar = max(root.val, maxSoFar)
+            if root.left:
+                dfs(root.left, maxSoFar)
+            if root.right:
+                dfs(root.right, maxSoFar)
+
+        dfs(root, maxSoFar)
+        return count
