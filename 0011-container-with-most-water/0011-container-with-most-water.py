@@ -1,12 +1,14 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
-        maxA = 0
-        i,j=0,len(height)-1
-        while i<j:
-            currArea = (j-i) * min(height[j],height[i])
-            maxA=max(maxA,currArea)
-            if height[i]<height[j]:
-                i+=1
+        n = len(height)
+        left = 0
+        right = n - 1
+        maxArea = 0
+        while left < right:
+            currArea = (right - left) * min(height[right], height[left])
+            maxArea = max(maxArea, currArea)
+            if height[left] <= height[right]:
+                left += 1
             else:
-                j-=1
-        return maxA
+                right -= 1
+        return maxArea
