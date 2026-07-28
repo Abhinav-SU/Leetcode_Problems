@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0049-group-anagrams/) | Medium |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0042-trapping-rain-water/) | Hard |
 ## Monotonic Stack
@@ -371,4 +373,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
