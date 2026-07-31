@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/3180-maximum-total-reward-using-operations-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0886-possible-bipartition/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
