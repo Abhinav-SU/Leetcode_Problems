@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0127-word-ladder/) | Hard |
 | [0242-valid-anagram](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0257-binary-tree-paths/) | Easy |
+| [0269-alien-dictionary](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0269-alien-dictionary/) | Hard |
 | [0271-encode-and-decode-strings](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0472-concatenated-words](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0472-concatenated-words/) | Hard |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0269-alien-dictionary](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0269-alien-dictionary/) | Hard |
 | [0271-encode-and-decode-strings](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0286-walls-and-gates](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0286-walls-and-gates/) | Medium |
 | [0322-coin-change](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0322-coin-change/) | Medium |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0257-binary-tree-paths/) | Easy |
+| [0269-alien-dictionary](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0269-alien-dictionary/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0337-house-robber-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0337-house-robber-iii/) | Medium |
@@ -162,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0226-invert-binary-tree/) | Easy |
+| [0269-alien-dictionary](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0269-alien-dictionary/) | Hard |
 | [0286-walls-and-gates](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0286-walls-and-gates/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0322-coin-change/) | Medium |
@@ -300,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0210-course-schedule-ii/) | Medium |
+| [0269-alien-dictionary](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0269-alien-dictionary/) | Hard |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0684-redundant-connection/) | Medium |
@@ -316,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0210-course-schedule-ii/) | Medium |
+| [0269-alien-dictionary](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0269-alien-dictionary/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
