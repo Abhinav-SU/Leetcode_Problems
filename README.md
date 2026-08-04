@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [0986-interval-list-intersections](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0986-interval-list-intersections/) | Medium |
 | [0994-rotting-oranges](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/3180-maximum-total-reward-using-operations-i/) | Medium |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0986-interval-list-intersections](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0986-interval-list-intersections/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -409,4 +411,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0056-merge-intervals/) | Medium |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
