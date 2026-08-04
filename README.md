@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0133-clone-graph/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0127-word-ladder/) | Hard |
+| [0208-implement-trie-prefix-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0269-alien-dictionary](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0269-alien-dictionary/) | Hard |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0472-concatenated-words](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0472-concatenated-words/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -368,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0271-encode-and-decode-strings](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Math
