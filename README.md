@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0986-interval-list-intersections](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0986-interval-list-intersections/) | Medium |
 | [0994-rotting-oranges](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0994-rotting-oranges/) | Medium |
+| [1094-car-pooling](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1094-car-pooling/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/3180-maximum-total-reward-using-operations-i/) | Medium |
 ## Depth-First Search
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0472-concatenated-words](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0472-concatenated-words/) | Hard |
+| [1094-car-pooling](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1094-car-pooling/) | Medium |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/3180-maximum-total-reward-using-operations-i/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1094-car-pooling](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1094-car-pooling/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -424,4 +427,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0253-meeting-rooms-ii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [1094-car-pooling](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1094-car-pooling/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1094-car-pooling](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1094-car-pooling/) | Medium |
 <!---LeetCode Topics End-->
