@@ -1,20 +1,15 @@
 class Solution:
-    def isAnagram(self, s: str, t: str) -> bool:
-        n = len(s)
-        m = len(t)
-        if n!=m:
+    def isAnagram(self,s:str,t:str)->bool:
+        m = len(s)
+        n = len(t)
+        if m!=n:
             return False
-
-        count = [0] * 26
+        count = defaultdict(int)
         for char in s:
-            count[ord(char)-ord('a')] +=1
-
+            count[char] +=1
         for char in t:
-            if count[ord(char)-ord('a')] == 0:
+            if count[char] == 0:
                 return False
-            count[ord(char)-ord('a')] -=1
-
-
+            count[char] -=1
+            
         return True
-
-        
