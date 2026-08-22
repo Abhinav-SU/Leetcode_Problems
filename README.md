@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0383-ransom-note/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0986-interval-list-intersections](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0986-interval-list-intersections/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1094-car-pooling](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1094-car-pooling/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0383-ransom-note/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -459,5 +462,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 <!---LeetCode Topics End-->
