@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0213-house-robber-ii/) | Medium |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0986-interval-list-intersections](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0986-interval-list-intersections/) | Medium |
 ## Monotonic Stack
@@ -328,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0778-swim-in-rising-water/) | Hard |
