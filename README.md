@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0127-word-ladder/) | Hard |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0127-word-ladder/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -454,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
