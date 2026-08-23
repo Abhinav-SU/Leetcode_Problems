@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0076-minimum-window-substring/) | Hard |
+| [0125-valid-palindrome](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0126-word-ladder-ii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0127-word-ladder/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0125-valid-palindrome](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0986-interval-list-intersections](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0986-interval-list-intersections/) | Medium |
