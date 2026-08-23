@@ -4,31 +4,21 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution:
-    def maxDepth(self, root: Optional[TreeNode]) -> int:
-
-        depth =0
-
-        if root is None:
+class Solution:    
+    def maxDepth(self,root):
+        if not root:
             return 0
-
-        q = deque([root])
-
-        while q:
-
-            depth +=1
-
-            lvl_size = len(q)
-
-            for _ in range(lvl_size):
-
-                curr = q.popleft()
-
-                if curr.left:
-                    q.append(curr.left)
-
-                if curr.right:
-                    q.append(curr.right)
-
-        return depth
-            
+        maxD = 0
+        def dfs(root,depth):
+            nonlocal maxD
+            stack =[(root,1)]
+            while stack:
+                node, depth = stack.pop()
+                if not node.left and not node.right:
+                    maxD = max(maxD,depth)
+                if node.left:
+                    stack.append((node.left,depth+1))
+                if node.right:
+                    stack.append((node.right,depth+1))
+        dfs(root,1)
+        return maxD
