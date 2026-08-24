@@ -5,20 +5,19 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def isValidBST(self, root: Optional[TreeNode]) -> bool:
+    def isValidBST(self,root):
         if not root:
             return True
-        stack =[]
-
-        prev = float('-inf')
-        while stack or root:
-            while root:
-                stack.append(root)
-                root = root.left
-            root = stack.pop()
-            
-            if root.val <= prev:
+        prev = float('-inf')    
+        def dfs(node):
+            nonlocal prev
+            if not node:
+                return True
+            if not dfs(node.left):
                 return False
-            prev = root.val
-            root = root.right
-        return True
+            if node.val <= prev:
+                return False
+            prev = node.val
+            return dfs(node.right)
+        return dfs(root)
+        
