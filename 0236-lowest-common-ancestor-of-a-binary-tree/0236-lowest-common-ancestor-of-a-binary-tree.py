@@ -6,7 +6,7 @@
 #         self.right = None
 
 class Solution:
-    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
+    def lowestCommonAncestor(self,root,p,q):
         parent = {root:None}
         stack = [root]
         
@@ -17,10 +17,9 @@ class Solution:
                 parent[node.left] = node
                 stack.append(node.left)
             if node.right:
-                parent[node.right] = node
+                parent[node.right]= node
                 stack.append(node.right)
         ancestor = set()
-        
         
         while p:
             ancestor.add(p)
