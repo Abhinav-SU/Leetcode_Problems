@@ -4,21 +4,20 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution:    
+class Solution:
     def maxDepth(self,root):
+        
         if not root:
             return 0
-        maxD = 0
-        def dfs(root,depth):
-            nonlocal maxD
-            stack =[(root,1)]
-            while stack:
-                node, depth = stack.pop()
-                if not node.left and not node.right:
-                    maxD = max(maxD,depth)
-                if node.left:
-                    stack.append((node.left,depth+1))
-                if node.right:
-                    stack.append((node.right,depth+1))
-        dfs(root,1)
-        return maxD
+  
+        def height(node,depth):
+            if not node:
+                return depth
+            lh =  height(node.left,depth +1)
+            rh =  height(node.right,depth+1)
+            curH = max(lh,rh)
+            
+            return curH
+            
+        return height(root,0)
+        
