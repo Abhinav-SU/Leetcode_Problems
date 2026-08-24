@@ -487,4 +487,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0239-sliding-window-maximum/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
