@@ -8,16 +8,17 @@ class Solution:
     def isValidBST(self,root):
         if not root:
             return True
-        prev = float('-inf')    
-        def dfs(node):
-            nonlocal prev
-            if not node:
-                return True
-            if not dfs(node.left):
+        prev = float('-inf')
+        stack = []
+        while stack or root:
+            while root:
+                stack.append(root)
+                root = root.left
+            root = stack.pop()
+            
+            if root.val <= prev:
                 return False
-            if node.val <= prev:
-                return False
-            prev = node.val
-            return dfs(node.right)
-        return dfs(root)
-        
+            
+            prev = root.val
+            root =  root.right
+        return True
