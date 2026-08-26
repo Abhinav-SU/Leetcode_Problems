@@ -8,18 +8,15 @@ class Solution:
     def hasPathSum(self,root,targetSum):
         if not root:
             return False
-        
         def dfs(node,curSum):
             if not node:
                 return False
             curSum += node.val
             if not node.left and not node.right:
                 return curSum == targetSum
-            left =  dfs(node.left,curSum)
-            right= dfs(node.right,curSum)
+            left = dfs(node.left,curSum)
+            right = dfs(node.right,curSum)
             
             return left or right
-            
-        result = dfs(root,0)
-        return result
+        return dfs(root,0)
         
