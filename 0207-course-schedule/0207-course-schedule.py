@@ -1,22 +1,19 @@
 class Solution:
-    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        indeg = [0]*numCourses
-        graph = defaultdict(list)
-
+    def canFinish(self,numCourses,prerequisites):
+        if not prerequisites:
+            return True
+        adjList = defaultdict(list)
+        indegree = [0]*numCourses
         for course, prereq in prerequisites:
-            graph[prereq].append(course)
-            indeg[course] +=1
-
-        q = deque([i for i in range(numCourses) if indeg[i]==0])
-        count =0
-
-        while q:
-            curr_course = q.popleft()
-            count +=1
-            for nxt in graph[curr_course]:
-                indeg[nxt] -=1
-                if indeg[nxt] == 0:
-                    q.append(nxt)
-
-        return count == numCourses 
-
+            adjList[prereq].append(course)
+            indegree[course] +=1
+        queue = deque(course for course in range(numCourses) if indegree[course] == 0)
+        count = 0
+        while queue:
+            curCourse = queue.popleft()
+            count+=1
+            for nei in adjList[curCourse]:
+                indegree[nei] -=1
+                if indegree[nei]== 0:
+                    queue.append(nei)
+        return count == numCourses
