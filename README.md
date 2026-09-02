@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0130-surrounded-regions](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0130-surrounded-regions](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0112-path-sum/) | Easy |
 | [0126-word-ladder-ii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0127-word-ladder/) | Hard |
+| [0130-surrounded-regions](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
@@ -224,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0064-minimum-path-sum/) | Medium |
+| [0130-surrounded-regions](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0286-walls-and-gates](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0286-walls-and-gates/) | Medium |
 | [0463-island-perimeter](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0463-island-perimeter/) | Easy |
@@ -237,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0547-number-of-provinces/) | Medium |
