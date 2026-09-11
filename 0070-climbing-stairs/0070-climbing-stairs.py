@@ -1,10 +1,14 @@
 class Solution:
-    def climbStairs(self, n: int) -> int:
-        if n <= 2:
-            return n
-        prev2 =1
-        prev1 =2
-
-        for _ in range(3,n+1):
-            prev2,prev1 = prev1, prev2+prev1
-        return prev1
+    def climbStairs(self,n):
+        dp = [-1]*(n+1)
+        
+        def climb(indx):
+            nonlocal dp
+            if indx <= 2:
+                dp[indx]= indx
+            if dp[indx] != -1:
+                return dp[indx]
+            dp[indx] = climb(indx-1)+climb(indx-2)
+            return dp[indx]
+        climb(n)
+        return dp[n]
