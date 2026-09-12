@@ -1,19 +1,15 @@
 class Solution:
     def longestCommonSubsequence(self,text1,text2):
-        if not text1 and not text2:
+        if not text1 or not text2:
             return 0
-        text1Length = len(text1)
-        text2Length = len(text2)
-        dp = [[-1]*text2Length for _ in range(text1Length)]
-        def isCommon(indx1,indx2):
-            if indx1 < 0 or indx2 < 0:
-                return 0
-            if dp[indx1][indx2] != -1:
-                return dp[indx1][indx2]
-            if (text1[indx1]==text2[indx2]):
-                dp[indx1][indx2] = 1+ isCommon(indx1-1,indx2-1)
-                return dp[indx1][indx2]
-            dp[indx1][indx2] =  max(isCommon(indx1-1,indx2),isCommon(indx1,indx2-1))
-            return dp[indx1][indx2]
-        ans = isCommon(text1Length-1,text2Length-1)
-        return ans
+        len1 = len(text1)
+        len2 = len(text2)
+        dp = [[0]*(len2+1) for _ in range(len1+1)]
+        
+        for i in range(1,len1+1):
+            for j in range(1,len2+1):
+                if text1[i-1] == text2[j-1]:
+                    dp[i][j] = 1+dp[i-1][j-1]
+                else:
+                    dp[i][j] = max(dp[i-1][j],dp[i][j-1])
+        return dp[len1][len2]
