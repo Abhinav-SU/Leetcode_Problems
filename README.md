@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0472-concatenated-words](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0472-concatenated-words/) | Hard |
+| [0509-fibonacci-number](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -411,10 +412,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -517,4 +520,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/1143-longest-common-subsequence/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Abhinav-SU/Leetcode_Problems/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
